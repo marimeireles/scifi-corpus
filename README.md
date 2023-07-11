@@ -17,7 +17,7 @@ Currently, kindly hosted by 🤗 [hugging-face](https://huggingface.co/datasets/
 
 The database consists of a json file formatted in the following manner:
 
-```json
+```
     {
         "instruction": "Immersed in the serene depths of the monastery, Nakamura crossed paths with the enigmatic Master Xin, a sage of unparalleled",
         "input": "",
