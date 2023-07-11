@@ -26,6 +26,7 @@ The database consists of a json file formatted in the following manner:
                   Xin. Wise and all-knowing, Master Xin possessed an understanding of the intricate workings
                   of time itself. Through their conversations, Nakamura delved deeper into the altered timeline
                   mysteries and the dangers that lay ahead."
+    },
 ```
 
 The instruction was generated using some language model (sometimes GPT by OpenAI, sometimes Falcon, sometimes Llama) based on the output. The output comes from several
