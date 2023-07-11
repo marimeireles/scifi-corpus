@@ -29,7 +29,7 @@ The database consists of a json file formatted in the following manner:
 ```
 
 The instruction was generated using some language model (sometimes GPT by OpenAI, sometimes Falcon, sometimes Llama) based on the output. The output comes from several
-different sources described in the [source](https://github.com/marimeireles/scifi-corpus/new/master?readme#sources) section. The ouput is capped in 500chars.
+different sources described in the [source](https://github.com/marimeireles/scifi-corpus/new/master?readme#sources) section. The ouput is capped in 500chars. The current dataset contains about 3GB of data.
 
 You will notice that's the exact format the current (2023) LLM models are using for fine-tuning. This is the main purpose of this data set. However, you're free to modify
 the data as you wish and change its formatting.
