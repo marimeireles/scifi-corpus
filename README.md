@@ -44,7 +44,7 @@ Contributions are very much appreciated, you can check the [projects page](https
 - omdb ✅
 - gutenberg ✅
 - aooo - Script ready
-- specific wikis:
+- specific wikis ([recommended tool](https://www.mediawiki.org/wiki/Manual:Pywikibot)):
   - KOTOR - Needs script
   - SW - Needs script
   - Star Trek - Needs script
